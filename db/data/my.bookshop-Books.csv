@@ -1,3 +1,21 @@
-ID;title;stock
-1;Wuthering Heights;100
-2;Jane Eyre;500
+ID;Title;Stock;Type;Price;CurrencyCode;ReleaseYear;ReleaseMonth;ReleaseDate;BestSeller
+1;Wuthering Heights;100;Small;50;EUR;2000;12;2000-12-01;false
+2;Jane Eyre;500;Medium;45.30;EUR;2011;11;2011-11-13;true
+3;Jane Eyre;400;Big;12;EUR;2000;12;2000-12-01;true
+4;Jane Eyre;300;Big;33;EUR;2000;12;2000-12-04;true
+5;Jane Eyre;200;Big;52.2;EUR;2000;09;2000-09-14;true
+6;Jane Eyre;100;Small;46.7;EUR;2000;09;2000-09-01;true
+7;Jane Eyre;600;Small;49.99;EUR;1989;04;1989-04-01;true
+8;Jane Eyre;700;Medium;29.99;EUR;1989;01;1989-01-01;true
+9;Jane Eyre;800;Medium;10;EUR;1989;01;1989-01-01;true
+10;Jane Eyre;900;Medium;9.99;EUR;1983;04;1983-04-12;true
+11;Jane Eyre;10;Medium;0.99;EUR;1976;04;1976-04-24;true
+12;Jane Eyre;50;Medium;56;EUR;2010;01;2010-01-01;false
+13;Jane Eyre;20;Big;39.99;EUR;2019;11;2019-11-23;false
+14;Jane Eyre;30;Big;20;EUR;2019;11;2019-11-05;false
+15;Jane Eyre;45;Big;20;EUR;2019;12;2019-12-31;false
+16;Jane Eyre;12;Big;32;EUR;1989;09;1989-09-01;false
+17;Jane Eyre;456;Big;12;EUR;1989;09;1989-09-01;false
+18;Jane Eyre;234;Big;11;EUR;1989;08;1989-08-12;false
+19;Jane Eyre;12;Big;45;EUR;1989;08;1989-08-03;false
+20;Jane Eyre;0;Big;56;EUR;1989;08;1989-08-18;false
