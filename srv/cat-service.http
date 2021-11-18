@@ -1,0 +1,5 @@
+### Metadata
+GET http://localhost:4004/catalog/$metadata
+
+### Get all books
+GET http://localhost:4004/catalog/Books
