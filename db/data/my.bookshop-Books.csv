@@ -1,3 +1,21 @@
-ID;title;stock
-1;Wuthering Heights;100
-2;Jane Eyre;500
+ID;Title;Stock;Type;Price;CurrencyCode_code;ReleaseYear;ReleaseMonth;ReleaseDate;BestSeller
+1;Wuthering Heights;100;Small;50;EUR;2000;12;2000-12-01;false
+2;Jane Eyre;500;Medium;45.30;EUR;2011;11;2011-11-13;true
+3;Harry Potter 1;400;Big;12;EUR;2000;12;2000-12-01;true
+4;Harry Potter 2;300;Big;33;EUR;2000;12;2000-12-04;true
+5;Harry Potter 3;200;Big;52.2;EUR;2000;09;2000-09-14;true
+6;Harry Potter 4;100;Small;46.7;EUR;2000;09;2000-09-01;true
+7;Harry Potter 5;600;Small;49.99;EUR;1989;04;1989-04-01;true
+8;Harry Potter 6;700;Medium;29.99;EUR;1989;01;1989-01-01;true
+9;Harry Potter 7;800;Medium;10;EUR;1989;01;1989-01-01;true
+10;Harry Potter 8;900;Medium;9.99;EUR;1983;04;1983-04-12;true
+11;Lord of the Rings - The Fellowship;10;Medium;0.99;EUR;1976;04;1976-04-24;true
+12;Lord of the Rings - The Two Towers;50;Medium;56;EUR;2010;01;2010-01-01;false
+13;Lord of the Rings - The Return of the King;20;Big;39.99;EUR;2019;11;2019-11-23;false
+14;Peter Pan;30;Big;20;EUR;2019;11;2019-11-05;false
+15;Robin Hood;45;Big;20;EUR;2019;12;2019-12-31;false
+16;The Matrix;12;Big;32;EUR;1989;09;1989-09-01;false
+17;Wheel of Time 1;456;Big;12;EUR;1989;09;1989-09-01;false
+18;Wheel of Time 2;234;Big;11;EUR;1989;08;1989-08-12;false
+19;Wheel of Time 3;12;Big;45;EUR;1989;08;1989-08-03;false
+20;Wheel of Time 4;0;Big;56;EUR;1989;08;1989-08-18;false
